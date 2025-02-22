@@ -41,7 +41,7 @@
     "@root": ".",
     "@models": "dist/models",
     "@utils": "dist/utils",
-    "@services": "dist/moservicesdels",
+    "@services": "dist/services",
     "@types": "dist/types",
     "@controller": "dist/controller",
     "@routes": "dist/routes",
